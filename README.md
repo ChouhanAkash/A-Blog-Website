@@ -12,14 +12,5 @@ The Blog Website project aims to create a user-friendly platform for sharing and
 - **Responsive Design:** The website is optimized for both desktop and mobile devices.
 - **Search Functionality:** Users can search for specific posts or topics.
 
-## Getting Started
 
-### Prerequisites
-- Node.js (version 14 or higher)
-- npm (Node package manager)
-
-### Installation
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/blog-website.git
 
